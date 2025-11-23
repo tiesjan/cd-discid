@@ -61,8 +61,8 @@ nature it is unclear what the best method of outputting these should be.
 ## Development
 
 If you have patches, please fork cd-discid at
-[GitHub](https://github.com/taem/cd-discid) or simply send your patches by e-mail (see
-below). If you found a bug, please report it at https://github.com/taem/cd-discid/issues.
+[GitHub](https://github.com/tiesjan/cd-discid) or simply send your patches by e-mail (see
+below). If you found a bug, please report it at https://github.com/tiesjan/cd-discid/issues.
 
 
 ## Homepage
@@ -80,4 +80,8 @@ GNU GPL text.
 ## Author
 
 Original author is [Robert Woodcock](mailto:rcw@debian.org).
+
 Later [Timur Birsh](mailto:taem@linukz.org) picked up maintenance.
+
+Many years later, [Ties Jan Hefting](mailto:hello@tiesjan.com) forked the repository to continue
+maintenance.
