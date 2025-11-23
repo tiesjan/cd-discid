@@ -1,4 +1,4 @@
-VERSION = 1.4
+VERSION = 1.5
 
 CC ?= cc
 RM = rm -f
