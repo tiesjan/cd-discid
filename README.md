@@ -65,11 +65,6 @@ If you have patches, please fork cd-discid at
 below). If you found a bug, please report it at https://github.com/tiesjan/cd-discid/issues.
 
 
-## Homepage
-
-Latest program version can be found at http://linukz.org/cd-discid.shtml.
-
-
 ## License
 
 cd-discid is distributed under the terms GNU General Public License Version 2
