@@ -3,6 +3,11 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
+## 1.5.1
+### Other
+- Remove references to former maintainer website
+
+
 ## 1.5
 ### Added
 - Add support for DragonFly.
